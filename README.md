@@ -1,4 +1,4 @@
-# _Este proyecto ha sido creado como parte del currículo de 42 por lodazan._
+# _Este proyecto ha sido creado como parte del currículo de 42 por lodazzan._
 
 ## Description
 
