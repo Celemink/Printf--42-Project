@@ -1,4 +1,4 @@
-# _Este proyecto ha sido creado como parte del currículo de 42 por lodazzan._
+# _This project has been created as a part of the curriculum for 42 by lodazzan._
 
 ## Description
 
